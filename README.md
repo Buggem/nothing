@@ -41,3 +41,6 @@ bleh()
 So this library is pretty much just an extra dependancy to annoy everybody and waste network bandwidth downloading.
 
 The whole idea of this library was pretty much a joke but there was one time I insanly thought it would actually be pretty practical.
+
+## Read these before adding to your ridiculously long list of dependancies.
+# [T&C](https://github.com/Buggem/nothing/blob/main/Terms_and_Conditions.md)
